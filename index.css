@@ -193,7 +193,7 @@ main {
 
 .heading>span:first-child {
     font-size: 14vw;
-    font-size: clamp(2rem, 14vw, 9rem);
+    font-size: clamp(1rem, 14vw, 9rem);
 }
 
 .heading>span:nth-child(2) {
